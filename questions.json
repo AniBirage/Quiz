@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is the purpose of the 'require' function in Node.js?",
+        "options": [
+            "To include external modules",
+            "To define new functions",
+            "To create event listeners",
+            "To handle user input"
+        ],
+        "answer": "To include external modules"
+    },
+    {
+        "question": "Which of the following is NOT a core module in Node.js?",
+        "options": [
+            "fs",
+            "http",
+            "express",
+            "path"
+        ],
+        "answer": "express"
+    },
+    {
+        "question": "What does 'npm' stand for?",
+        "options": [
+            "Node Package Manager",
+            "Node Programming Module",
+            "Node Package Module",
+            "Node Project Manager"
+        ],
+        "answer": "Node Package Manager"
+    },
+    {
+        "question": "What is the purpose of the 'module.exports' object in Node.js?",
+        "options": [
+            "To import modules",
+            "To export variables or functions",
+            "To handle HTTP requests",
+            "To create new files"
+        ],
+        "answer": "To export variables or functions"
+    },
+    {
+        "question": "Which of the following is NOT an HTTP method in Node.js?",
+        "options": [
+            "GET",
+            "POST",
+            "PUSH",
+            "DELETE"
+        ],
+        "answer": "PUSH"
+    },
+    {
+        "question": "What is the role of the 'process' object in Node.js?",
+        "options": [
+            "To provide information about the current process",
+            "To handle file system operations",
+            "To create child processes",
+            "To manage network requests"
+        ],
+        "answer": "To provide information about the current process"
+    },
+    {
+        "question": "Which event is emitted when an error occurs in Node.js?",
+        "options": [
+            "error",
+            "exception",
+            "fail",
+            "abort"
+        ],
+        "answer": "error"
+    },
+    {
+        "question": "What is the purpose of the 'Buffer' class in Node.js?",
+        "options": [
+            "To handle binary data",
+            "To manipulate strings",
+            "To manage file streams",
+            "To generate random numbers"
+        ],
+        "answer": "To handle binary data"
+    },
+    {
+        "question": "Which module is commonly used for asynchronous control flow in Node.js?",
+        "options": [
+            "async",
+            "promise",
+            "callback",
+            "event"
+        ],
+        "answer": "async"
+    },
+    {
+        "question": "What is the purpose of the 'setTimeout' function in Node.js?",
+        "options": [
+            "To delay the execution of a function",
+            "To set intervals for function execution",
+            "To handle timeouts for network requests",
+            "To terminate the program"
+        ],
+        "answer": "To delay the execution of a function"
+    }
+]
